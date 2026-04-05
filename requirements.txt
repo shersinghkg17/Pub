@@ -1,9 +1,0 @@
-pyTelegramBotAPI==4.16.0
-flask==2.3.0
-pymongo==4.5.0
-dnspython==2.4.0
-requests==2.31.0
-
-chmod +x *
-
-python3 telegram_bot.py
